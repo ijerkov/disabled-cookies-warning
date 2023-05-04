@@ -1,0 +1,16 @@
+.cookie-warning {
+    background-color: #ffcc00;
+    color: #000;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cookie-warning p {
+    margin: 0;
+}
+
+.cookie-warning a {
+    color: #000;
+    text-decoration: underline;
+}
